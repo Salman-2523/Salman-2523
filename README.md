@@ -2,16 +2,13 @@
 <h3 align="center">A Passionate Fullstack Web Developer From India</h3>
 
 <h4>About Me</h4>
-🎓   Learning Full Stack Web Development, MERN stack, Javascript and its frameworks
-      at Masai Schook remotely.
+🎓   Learning Full Stack Web Development(MERN) at Masai School.
   
 🌱   Learning Data Structures and Algorithms.
 </br>
 💼   I aspire to work as a full stack web developer.
 </br>
-👯‍♂️   I’m looking to collaborate on javascript projects that involve react,redux and   node and lot of learnings.
-</br>
-⚡ Fun fact I love travelling, listening to music.
+⚡ Fun fact I love teaching and exploring food..
 </br>
 
 
