@@ -8,7 +8,7 @@
 </br>
 💼   I aspire to work as a full stack web developer.
 </br>
-⚡  I love teaching and exploring food..
+⚡  I love teaching and exploring food.
 </br>
 
 
