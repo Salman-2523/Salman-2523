@@ -2,13 +2,13 @@
 <h3 align="center">A Passionate Fullstack Web Developer From India</h3>
 
 <h4>About Me</h4>
-🎓   Learning Full Stack Web Development(MERN) at Masai School.
+🎓 Full Stack Web Developer(MERN).
   
-🌱   Learning Data Structures and Algorithms.
+🌱 Learning Data Structures and Algorithms.
 </br>
-💼   I aspire to work as a full stack web developer.
+💼 I aspire to work as a full stack web developer.
 </br>
-⚡  I love teaching and exploring food.
+⚡ I am passionate about teaching and love to help out newbies to get started in tech.
 </br>
 
 
