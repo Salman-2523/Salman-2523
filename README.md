@@ -12,8 +12,7 @@
 </br>
 
 
-![](https://komarev.com/ghpvc/?username=your-github-Salman-2523&style=flat-square&label=Profile+Views)
-</br>
+
 </br>
 
 ## Connect with me:
