@@ -4,11 +4,8 @@
 <h4>About Me</h4>
 🎓 Full Stack Web Developer(MERN).
   
-🌱 Learning Data Structures and Algorithms.
-</br>
+
 💼 I aspire to work as a full stack web developer.
-</br>
-⚡ I am passionate about teaching and love to help out newbies to get started in tech.
 </br>
 
 
